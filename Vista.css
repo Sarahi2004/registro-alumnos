@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	align-self: center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	background-color: white;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	font-style:oblique;
+	font-weight: 200;
+}
+.container{
+	background-color: cornsilk;
+	margin-left: 50px;
+	margin: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 50px;
+	box-sizing: 50px;
+}
